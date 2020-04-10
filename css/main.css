@@ -1935,7 +1935,7 @@ nav a:hover {
 }
 
 .dup-body {
-  background: #e0003b;
+  background: #21040c;
 }
 
 .dup-body-wrap {
@@ -2037,7 +2037,7 @@ nav a:hover {
 }
 
 .banner-area {
-    background:url(../img/this.png);
+    background:url(../img/thismask.jpg);
     /* background-color: #cccccc; */
     /* height: 1000px; */
     background-position: center;
@@ -2062,7 +2062,7 @@ nav a:hover {
 }
 
 .banner-content h1 {
-  font-size: 68px;
+  font-size: 10px;
   font-weight: 500;
   line-height: 1.15em;
   margin-bottom: 20px;
@@ -2070,7 +2070,7 @@ nav a:hover {
 
 @media (max-width: 991px) {
   .banner-content h1 {
-    font-size: 36px;
+    font-size: 46px;
   }
 }
 
@@ -2081,11 +2081,11 @@ nav a:hover {
 }
 
 .banner-content p {
-  margin-bottom: 60px;
+  margin-bottom: 10px;
   font-size: 16px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1200px) {
   .banner-content p {
     margin-bottom: 20px;
   }
